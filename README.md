@@ -108,8 +108,8 @@
 ![logincomp](https://user-images.githubusercontent.com/74514595/113680345-b4d8d900-96fb-11eb-93df-b9d39788593a.jpg)
 
 
-## 디자인 ##
-##### 리뉴얼 작업에 사용된 디자인 시안은 라우드 소싱의 콘테스트 우승작입니다. #####
+## 디자인 저작권 ##
+##### 메인 페이지에 사용된 디자인은 라우드 소싱 콘테스트 우승작입니다. #####
 행복은 간장밥 디자인 콘테스트 : https://www.loud.kr/contest/view/29464 <br>
 우승작 디자인 맛집(webdy)님의 사이트 : https://www.loud.kr/m/webdy#portfolio
 
