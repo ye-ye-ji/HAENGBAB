@@ -114,4 +114,4 @@
 
 ###### * *비영리 목적으로 저작물을 사용했으며 어떠한 상업적 용도로도 사용하지 않았습니다.* ######
 
-##### [리뉴얼 페이지](http://yeji-jung.com/project/twosome/common/main/index.html) 에 직접 방문해보세요. #####
+##### [리뉴얼 페이지](http://yeji-jung.com/project/hangbab/index.html) 에 직접 방문해보세요. #####
