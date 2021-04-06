@@ -3,8 +3,8 @@
 행복은 간장밥 리뉴얼 페이지는 디자인 컨테스트 우승작을 구현했으며<br>
 로그인과 회원가입 페이지를 추가했습니다.
 
--[ 행복은 간장밥 홈페이지](http://www.haengbab.com/) <br>
--[ 행복은 간장밥 리뉴얼 페이지](http://yeji-jung.com/project/hangbab/index.html)
+- [행복은 간장밥 홈페이지](http://www.haengbab.com/) <br>
+- [행복은 간장밥 리뉴얼 페이지](http://yeji-jung.com/project/hangbab/index.html)
 ###### * *리뉴얼 페이지는 구글 크롬 브라우저에 최적화되어 있습니다.* ######
 
 ## 로그인 ##
