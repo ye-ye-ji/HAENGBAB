@@ -64,7 +64,8 @@
 ## 회원가입 - 정보입력 ##
 #### 입력된 내용과 조건이 부합하지 않으면 하단에 설명이 나타납니다. ####
 
-![screenshot-yeji-jung com-2021 04 06-17_10_01](https://user-images.githubusercontent.com/74514595/113680305-a985ad80-96fb-11eb-9450-7aa199737ae2.png)
+![jjoin](https://user-images.githubusercontent.com/74514595/113694666-00df4a00-970b-11eb-91d8-7f61d39778f8.jpg)
+
 
     $('#joinForm').submit(function(){
         if( $('#userId').val() == "" ){ 
